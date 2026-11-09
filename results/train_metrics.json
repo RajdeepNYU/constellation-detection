@@ -1,0 +1,30 @@
+{
+  "pisces": {
+    "presence": 0.9171717171717171,
+    "localization": 0.9259259259259259,
+    "geometric_recovery": 1.0,
+    "identification": 1.0,
+    "score": 0.9644781144781145
+  },
+  "scorpius": {
+    "presence": 0.8975,
+    "localization": 0.8846153846153846,
+    "geometric_recovery": 1.0,
+    "identification": 1.0,
+    "score": 0.9512980769230769
+  },
+  "taurus": {
+    "presence": 0.7017543859649122,
+    "localization": 0.7777777777777778,
+    "geometric_recovery": 1.0,
+    "identification": 1.0,
+    "score": 0.8809941520467837
+  },
+  "mean": {
+    "presence": 0.8388087010455431,
+    "localization": 0.8627730294396961,
+    "geometric_recovery": 1.0,
+    "identification": 1.0,
+    "score": 0.9322567811493251
+  }
+}

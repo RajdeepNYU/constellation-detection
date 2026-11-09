@@ -1,0 +1,22 @@
+# Competition data (not redistributed)
+participant/
+data/
+
+# Run outputs and caches
+runs/
+cache/
+src/results/
+*.diagnostics.json
+*.timing.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
